@@ -1,37 +1,4 @@
-################ # Space Ship Game By Lovish Mehra With Help of freeCodeCamp.org
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+################ # Space Ship Game by Lovish Mehra with some help of freeCodeCamp.org
 
 
 import pygame
