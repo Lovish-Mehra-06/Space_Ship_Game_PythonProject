@@ -16,3 +16,7 @@ This Project is made using the python module - "Pygame". (Pygame is a set of Pyt
 It also contains a lot of sound effects and great visuals to improve your gaming experience.
 <br>
 " Aliens are invading our Space ! HELP ! "
+
+## Screenshots
+
+![Screenshot](SpaceShipGame_PythonProj/SpaceshipgameScreenshot1.png)
